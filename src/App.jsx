@@ -7,7 +7,7 @@ function App() {
         <article class="testimonial grid-col-span-2 flow bg-primary-400 quote text-neutral-100">
           <div class="flex">
             <div>
-              <img src="/images/image1.jpg" alt="daniel clifford" />
+              <img src="/image1.jpg" alt="daniel clifford" />
             </div>
             <div>
               <h2 class="name">Daniel Clifford</h2>
@@ -32,7 +32,7 @@ function App() {
         <article class="testimonial flow bg-secondary-400 text-neutral-100">
           <div class="flex">
             <div>
-              <img src="/images/image3.jpg" alt="Jonathan Walters" />
+              <img src="/image3.jpg" alt="Jonathan Walters" />
             </div>
             <div>
               <h2 class="name">Jonathan Walters</h2>
@@ -49,7 +49,7 @@ function App() {
         <article class="testimonial flow bg-neutral-100 text-secondary-400">
           <div class="flex">
             <div>
-              <img src="/images/image2.jpg" alt="Jeanette Harmon" />
+              <img src="/image2.jpg" alt="Jeanette Harmon" />
             </div>
             <div>
               <h2 class="name">Jeanette Harmon</h2>
@@ -67,7 +67,7 @@ function App() {
             <div>
               <img
                 class="border-primary-400"
-                src="/images/image5.jpg"
+                src="/image5.jpg"
                 alt="Patrick Abrams"
               />
             </div>
@@ -93,7 +93,7 @@ function App() {
         <article class="testimonial flow bg-neutral-100 text-secondary-400">
           <div class="flex">
             <div>
-              <img src="/images/image4.jpg" alt="Kira Whittle" />
+              <img src="/image4.jpg" alt="Kira Whittle" />
             </div>
             <div>
               <h2 class="name">Kira Whittle</h2>
