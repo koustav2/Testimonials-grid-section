@@ -108,3 +108,8 @@ h2,
 h3 {
   font-weight: var(--fw-700);
 }
+
+::selection {
+  color: rgb(18, 21, 172);
+  background-color: crimson;
+}
