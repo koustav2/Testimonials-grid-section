@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/img.png)
+![](/images/img.png)
 
 ### Links
 
 - Solution URL: [Solution](https://github.com/koustav2/Testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live](https://testimonials-grid-section-peach.vercel.app/)
 
 ## My process
 
